@@ -1,2 +1,1 @@
-# ideas
-One-man brainstorms and ideas for new modules
+**[Head over to issues »](https://github.com/tomekwi/ideas/issues)**
